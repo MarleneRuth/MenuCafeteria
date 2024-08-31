@@ -1,0 +1,41 @@
+body {
+    background-image: ('https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjU0NmJhdGNoMy1teW50LTM0LWJhZGdld2F0ZXJjb2xvcl8xLmpwZw.jpg');
+    background-size:contain ;
+    margin: 0 ;
+    font-family:'Arial', sans-serif;
+  }
+  h1 {
+     text-align: center;
+     color: rgba(49, 8, 8, 0.678);
+     font-weight: bold;
+     font-style:inherit;
+  }
+  h2 {
+    text-align: center;
+    color: rgb(128, 79, 44);
+  }
+  
+  
+  
+  .image{
+    align-items: center;
+    height: 150;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px ;
+    margin-bottom: 10px;
+  }
+  .price{
+    font-weight: bold;
+    color: rgb(94, 60, 60);
+  }
+  
+  
+  .menuitem{
+    font-size: 18px;
+    color:rgba(49, 8, 8, 0.678);
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+  
+  }
