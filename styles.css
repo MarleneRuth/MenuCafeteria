@@ -1,19 +1,20 @@
 body {
-    background-image: ('https://img.freepik.com/vector-gratis/fondo-abstracto-blanco_23-2148810113.jpg');
-    background-size:contain ;
-    margin: 0 ;
-    font-family:'Arial', sans-serif;
+    background-image:url('https://mymodernmet.com/wp/wp-content/uploads/2020/04/studio-ghibli-video-backdrops-9.jpg');
+    background-size: cover; 
+    margin: 0;
+    font-family: 'Arial', sans-serif;
     text-align: center;
+
   }
   h1 {
      text-align: center;
-     color: rgba(49, 8, 8, 0.678);
+     color: rgba(255, 255, 255, 0.678);
      font-weight: bold;
      font-style:inherit;
   }
   h2 {
     text-align: center;
-    color: rgb(128, 79, 44);
+    color: rgb(255, 232, 216);
   }
   
   
@@ -28,13 +29,13 @@ body {
   }
   .price{
     font-weight: bold;
-    color: rgb(94, 60, 60);
+    color: rgb(255, 255, 255);
   }
   
   
   .menuitem{
     font-size: 18px;
-    color:rgba(49, 8, 8, 0.678);
+    color:rgba(255, 247, 230, 0.678);
     display: flex;
     justify-content: space-between;
     margin-bottom: 8px;
